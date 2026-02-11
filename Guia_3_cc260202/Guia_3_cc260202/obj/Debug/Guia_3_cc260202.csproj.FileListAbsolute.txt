@@ -1,0 +1,7 @@
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\bin\Debug\Guia_3_cc260202.exe.config
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\bin\Debug\Guia_3_cc260202.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\bin\Debug\Guia_3_cc260202.pdb
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\obj\Debug\Guia_3_cc260202.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\obj\Debug\Guia_3_cc260202.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\obj\Debug\Guia_3_cc260202.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_3_cc260202\Guia_3_cc260202\obj\Debug\Guia_3_cc260202.pdb

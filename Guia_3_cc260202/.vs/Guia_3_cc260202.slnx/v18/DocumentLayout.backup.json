@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\Programaci\u00F3n estructurada G03L Gabriel Contreras\\Guia_3_cc260202\\",
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\Programaci\u00F3n estructurada G03L Gabriel Contreras\\Guias\\Guia_3_cc260202\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83640D79-044C-418C-9D03-9B94651CCCE1}|Guia_3_cc260202\\Guia_3_cc260202.csproj|c:\\users\\usuario\\documents\\programaci\u00F3n estructurada g03l gabriel contreras\\guia_3_cc260202\\guia_3_cc260202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83640D79-044C-418C-9D03-9B94651CCCE1}|Guia_3_cc260202\\Guia_3_cc260202.csproj|c:\\users\\usuario\\documents\\programaci\u00F3n estructurada g03l gabriel contreras\\guias\\guia_3_cc260202\\guia_3_cc260202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83640D79-044C-418C-9D03-9B94651CCCE1}|Guia_3_cc260202\\Guia_3_cc260202.csproj|solutionrelative:guia_3_cc260202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Programaci\u00F3n estructurada G03L Gabriel Contreras\\Guia_3_cc260202\\Guia_3_cc260202\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Programaci\u00F3n estructurada G03L Gabriel Contreras\\Guias\\Guia_3_cc260202\\Guia_3_cc260202\\Program.cs",
               "RelativeDocumentMoniker": "Guia_3_cc260202\\Program.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\Programaci\u00F3n estructurada G03L Gabriel Contreras\\Guia_3_cc260202\\Guia_3_cc260202\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\Programaci\u00F3n estructurada G03L Gabriel Contreras\\Guias\\Guia_3_cc260202\\Guia_3_cc260202\\Program.cs",
               "RelativeToolTip": "Guia_3_cc260202\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAAALQBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T14:41:46.653Z",
               "EditorCaption": ""

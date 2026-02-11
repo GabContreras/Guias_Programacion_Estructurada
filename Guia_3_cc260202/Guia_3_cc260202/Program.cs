@@ -12,8 +12,8 @@ namespace Guia_3_cc260202
         {
             //ejemplo1();
             //ejemplo2();
-            ejemplo3();
-            //ejemplo4();
+            //ejemplo3();
+            ejemplo4();
 
         }
         static void ejemplo1()
