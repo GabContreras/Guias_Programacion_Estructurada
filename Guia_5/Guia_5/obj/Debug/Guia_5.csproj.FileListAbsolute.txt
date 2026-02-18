@@ -1,0 +1,7 @@
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\bin\Debug\Guia_5.exe.config
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\bin\Debug\Guia_5.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\bin\Debug\Guia_5.pdb
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\obj\Debug\Guia_5.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\obj\Debug\Guia_5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\obj\Debug\Guia_5.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Guia_5\Guia_5\obj\Debug\Guia_5.pdb
