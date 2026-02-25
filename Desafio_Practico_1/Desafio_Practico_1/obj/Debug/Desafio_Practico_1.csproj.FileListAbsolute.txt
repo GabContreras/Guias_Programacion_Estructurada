@@ -1,0 +1,7 @@
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\bin\Debug\Desafio_Practico_1.exe.config
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\bin\Debug\Desafio_Practico_1.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\bin\Debug\Desafio_Practico_1.pdb
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\obj\Debug\Desafio_Practico_1.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\obj\Debug\Desafio_Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\obj\Debug\Desafio_Practico_1.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias\Desafio_Practico_1\Desafio_Practico_1\obj\Debug\Desafio_Practico_1.pdb
