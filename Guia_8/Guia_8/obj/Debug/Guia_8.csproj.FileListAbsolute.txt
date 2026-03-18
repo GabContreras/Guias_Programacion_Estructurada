@@ -1,0 +1,7 @@
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\bin\Debug\Guia_8.exe.config
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\bin\Debug\Guia_8.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\bin\Debug\Guia_8.pdb
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\obj\Debug\Guia_8.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\obj\Debug\Guia_8.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\obj\Debug\Guia_8.exe
+C:\Users\usuario\Documents\Programación estructurada G03L Gabriel Contreras\Guias_Programacion_Estructurada\Guia_8\Guia_8\obj\Debug\Guia_8.pdb

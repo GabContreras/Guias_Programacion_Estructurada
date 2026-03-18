@@ -136,7 +136,7 @@ namespace Guia_7
             Console.WriteLine("\n\n");
             Console.Write("\t");
             Console.WriteLine("--> Fin del Programa");
-            Console.Write("\t");
+            Console.Write(" \t");
             Console.ReadKey();
         }
         static Double euros(Double a)
