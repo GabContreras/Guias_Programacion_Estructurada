@@ -1,0 +1,7 @@
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\bin\Debug\Repaso_Desafio2.exe.config
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\bin\Debug\Repaso_Desafio2.exe
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\bin\Debug\Repaso_Desafio2.pdb
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\obj\Debug\Repaso_Desafio2.csproj.AssemblyReference.cache
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\obj\Debug\Repaso_Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\obj\Debug\Repaso_Desafio2.exe
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Repaso_Desafio2\Repaso_Desafio2\obj\Debug\Repaso_Desafio2.pdb
