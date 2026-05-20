@@ -1,0 +1,14 @@
+		---------------------------------------------------------------
+	Factura No: 67 | Fecha: 20260518
+	Cliente: Ricardo Milos | Dirección: Mi casa 1234
+	Vendedor: Josue Guinea
+	---------------------------------------------------------------
+	Cantidad 	Producto 	Precio 		Totalitos
+	20		Manzana		0.5		10
+	20		Pera		0.75		15
+	100		Uva		0.15		15
+						SubTot	40
+						IVA	5.2
+						Total	45.2
+	---------------------------------------------------------------
+

@@ -1,0 +1,7 @@
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\bin\Debug\Dedsafio_Final.exe.config
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\bin\Debug\Dedsafio_Final.exe
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\bin\Debug\Dedsafio_Final.pdb
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\obj\Debug\Dedsafio_Final.csproj.AssemblyReference.cache
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\obj\Debug\Dedsafio_Final.csproj.CoreCompileInputs.cache
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\obj\Debug\Dedsafio_Final.exe
+C:\Users\contr\OneDrive\Escritorio\Guias_Programacion_Estructurada\Dedsafio_Final\Dedsafio_Final\obj\Debug\Dedsafio_Final.pdb
