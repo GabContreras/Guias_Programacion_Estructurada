@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\bin\Debug\Guia 11.exe.config
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\bin\Debug\Guia 11.exe
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\bin\Debug\Guia 11.pdb
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\obj\Debug\Guia 11.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\obj\Debug\Guia 11.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\obj\Debug\Guia 11.exe
+C:\Users\usuario\Desktop\Desafio2\Guia 11\Guia 11\obj\Debug\Guia 11.pdb
